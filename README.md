@@ -1,6 +1,6 @@
-<a href="https://github.com/branilson"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Branilson Luiz" alt="BranlsonLuiz"></a>
+<a href="https://github.com/branilson"><img src="https://github.com/branilson/BL_TrafficLight/blob/master/img/180px-Traffic_lights_3_states.png" title="Branilson Luiz" alt="BranlsonLuiz"></a>
 
-<!-- [![Branilson Luiz(https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://github.com/branilson) -->
+<!-- [![Branilson Luiz(https://github.com/branilson/BL_TrafficLight/blob/master/img/180px-Traffic_lights_3_states.png](https://github.com/branilson) -->
 
 
 # Simple Traffic Light Mbed code
